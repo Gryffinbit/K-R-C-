@@ -4,8 +4,6 @@
 ```
 #include <stdio.h>     //包含标准库的信息
 
-/* 第一个C语言程序 */
-
 main()                //定义名为main的函数，它不接受参数值
 {
 	printf("hello,world\n ");    //main函数的语句都被括在花括号中 
